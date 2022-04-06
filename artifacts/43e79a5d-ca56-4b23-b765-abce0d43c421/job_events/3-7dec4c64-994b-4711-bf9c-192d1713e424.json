@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "7dec4c64-994b-4711-bf9c-192d1713e424", "counter": 3, "stdout": "\u001b[0;31mThe error appears to be in '/home/vescana/ansible/playbooks/site.yml': line 24, column 7, but may\u001b[0m", "start_line": 2, "end_line": 3, "runner_ident": "43e79a5d-ca56-4b23-b765-abce0d43c421", "created": "2022-04-05T13:34:07.067496"}
